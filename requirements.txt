@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+openai
+gtts
+pygame
+requests
+pocketsphinx
+python-dotenv
